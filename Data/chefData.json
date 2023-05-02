@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Vikas Khanna",
+        "picture": "https://fabceleby.in/wp-content/uploads/2023/01/Vikas-Khanna-Net-Worth.jpg",
+        "yearsOfExperience": 13,
+        "numberOfRecipes": 200,
+        "ratings": 4.8,
+        "bio": "Vikas Khanna (born 14 November is an Indian chef, restaurateur, cookbook writer, filmmaker and humanitarian. He is one of the judges of MasterChef India."
+    },
+    {
+        "id": 2,
+        "name": "Sanjeev Kapoor",
+        "picture": "https://images.herzindagi.info/image/2020/Aug/sanjeev-kapoor-interview-main.jpg",
+        "yearsOfExperience": 30,
+        "numberOfRecipes": 150,
+        "ratings": 4.7,
+        "bio": "Sanjeev Kapoor is an Indian celebrity chef, entrepreneur and television personality. Kapoor hosted the TV show Khana Khazana, the longest running show ."
+    },
+    {
+        "id": 3,
+        "name": "Kunal Kapur",
+        "picture": "https://images.mygoodtimes.in/wp-content/uploads/2020/05/16080622/Kunal-Kapur-e1589617308205.jpeg",
+        "yearsOfExperience": 23,
+        "numberOfRecipes": 180,
+        "ratings": 4.8,
+        "bio": "Kunal Kapur (born 18 September 1979) is an Indian chef and restaurateur known for hosting and judging MasterChef India."
+        
+    },
+    {
+        "id": 4,
+        "name": "Ranveer Brar",
+        "picture": "https://static.businessworld.in/article/article_extra_large_image/1661586179_s05PVJ_Ranveer_Brar_Victorinox_campaign.jpg",
+        "yearsOfExperience": 23,
+        "numberOfRecipes": 220,
+        "ratings": 4.7,
+        "bio": "Ranveer Singh Brar is an Indian celebrity chef, MasterChef India judge, author and restaurateur. He is well known as the host of popular Television food shows and as a judge in three seasons (four, six and seven) of MasterChef India."
+    },
+    {
+        "id": 5,
+        "name": "Pankaj Bhadouria",
+        "picture": "https://d30ny7ijak9wq4.cloudfront.net/s3fs-public/images/story/2016/06/21/pankaj.jpg",
+        "years_of_experience": 13,
+        "number_of_recipes": 70,
+        "ratings": 4.5,
+        "bio": "Pankaj Bhadouria[1] is the winner[2] of MasterChef India[3] Season 1 (2010). She was a school teacher who quit a 16-year-old job to participate in the first season of MasterChef India. She has hosted the TV shows Chef Pankaj Ka Zayka. She was the first MasterChef Winner worldwide to have an official MasterChef Cookbook[9] in her name"
+       
+    },
+    {
+        "id": 6,
+        "name": "Shipra Khanna",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRFZXxpjYcQDH5WfgzQ1dET0c_rRF6aDW0JR3hZAIpS47J8eWfb",
+        "yearsOfExperience": 10,
+        "numberOfRecipes": 50,
+        "ratings": 4.3,
+        "bio": "Shipra Khanna is an Indian celebrity chef, restaurateur, author and television personality. She is best known for, at the age of 29, winning the second season of the Indian television show MasterChef India (2012)."
+    }
+]
